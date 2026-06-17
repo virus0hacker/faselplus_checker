@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Online-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Security](https://img.shields.io/badge/Security-Protected-red)
+
 
 ![Preview](Screenshot_2026-06-12_144758.png)
 ![Preview](Screenshot_2026-06-17_145859.png)
