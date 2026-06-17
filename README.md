@@ -30,4 +30,4 @@ If you want the full version or need custom modifications:
     Twitter: @h3fq1
     Telegram: @chwof
 
-Developed by ViRuS - HaCkEr ⚡
+ViRuS - HaCkEr
