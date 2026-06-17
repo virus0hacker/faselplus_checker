@@ -5,6 +5,8 @@
 ![Security](https://img.shields.io/badge/Security-Protected-red)
 
 
+![Preview](Screenshot_2026-06-17_145859.png)
+
 **FaselPlus Checker** is a high-performance tool designed for security researchers and penetration testers to verify account credentials for the FaselPlus platform. This tool is optimized to bypass rate-limiting and detection systems using advanced rotation techniques.
 
 ---
