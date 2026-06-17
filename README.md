@@ -1,8 +1,9 @@
 # 🚀 FaselPlus Account Checker v1.0
 
-![Status](https://img.shields.io/badge/Status-Online-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![Security](https://img.shields.io/badge/Security-Anti--RateLimit-red)
+![Status](https://img.shields.io/badge/Status-Online-green)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Security](https://img.shields.io/badge/Security-AntiRateLimit-red)
+
 
 **FaselPlus Checker** is a high-performance tool designed for security researchers and penetration testers to verify account credentials for the FaselPlus platform. This tool is optimized to bypass rate-limiting and detection systems using advanced rotation techniques.
 
