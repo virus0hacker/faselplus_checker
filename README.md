@@ -22,7 +22,7 @@
 
 ---
 
-## 💰 Purchase | الشراء
+## 💰 Purchase | للشراء
 
 If you want the full version or need custom modifications:
 
